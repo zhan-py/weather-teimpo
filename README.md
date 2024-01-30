@@ -22,3 +22,4 @@ Step 3. Run `npm run dev`, then navigate to [localhost:8080](http://localhost:80
 
 ![image-20240130102643659](assets/image-20240130102643659.png)
 
+![image-20240130150633051](assets/image-20240130150633051.png)
