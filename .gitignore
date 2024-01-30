@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+/src/components/temp.svelte
+
+.DS_Store
+.env
